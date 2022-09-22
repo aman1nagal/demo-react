@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    height: 90px;
+    background-color: rgb(36, 64, 143);
+    text-align: center
+}
+.navbar a{
+    margin-right: 30px;
+    margin-bottom: 2px;
+    color: rgb(241, 246, 241);
+    text-align: center;
+}
+.navbar h1{
+    margin-bottom: 14px;
+    height: 30;
+}
+.about{
+    height: 70px;
+}
+.about h1{
+    background-color: rgb(169, 231, 231);
+    margin-bottom: 3px;
+}
+.about p{
+    background-color: antiquewhite;
+}
